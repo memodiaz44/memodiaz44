@@ -5,7 +5,7 @@
 
 - 👨‍💻 View my portfolio available at [https://rad-monstera-0dc387.netlify.app/](https://rad-monstera-0dc387.netlify.app/)
 
-- 📫 How to reach me **mrmemo46@outlook.com** 
+- 📫 How to reach me *aadeldiaz90@ogmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
