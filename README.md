@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adel Diaz</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-- 🌱 I’m currently learning **React native, python3**
+- 👨‍💻 View my portfolio available at [https://cv-git-main-memodiaz44.vercel.app/sections/home)
 
-- 👨‍💻 View my portfolio available at [https://rad-monstera-0dc387.netlify.app/](https://rad-monstera-0dc387.netlify.app/)
-
-- 📫 How to reach me *aadeldiaz90@ogmail.com** 
+- 📫 How to reach me *adeldiaz90@ogmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
